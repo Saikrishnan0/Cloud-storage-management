@@ -14,14 +14,6 @@
 <h3 align="center">Cloud-storage-management</h3>
 <h3 align="center">Storage and File Sharing Platform</h3>
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
-
-- React 19
-- Next.js 15
-- Appwrite
-- TailwindCSS
-- ShadCN
-- TypeScript
 
 ## <a name="features">🔋 Features</a>
 
